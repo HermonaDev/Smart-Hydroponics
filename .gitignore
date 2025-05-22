@@ -1,0 +1,6 @@
+"machine_learning/data/*" 
+"!machine_learning/data/download_data.py" 
+"!machine_learning/data/.gitkeep" 
+"__pycache__/" 
+".venv/" 
+"*.pyc" 
